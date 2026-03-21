@@ -1,0 +1,29 @@
+name: Crown Holdings
+description: >-
+  Crown Holdings, Inc. is a global leader in the design, manufacture, and sale
+  of packaging products for consumer goods, including metal beverage cans, food
+  cans, aerosol cans, and specialty packaging. The company operates in over 40
+  countries.
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://github.com/api-evangelist/crown/blob/main/apis.yml
+created: '2025-03-01'
+modified: '2025-03-01'
+specificationVersion: '0.18'
+tags:
+  - Packaging
+  - Manufacturing
+  - Metal Packaging
+  - Beverage Cans
+  - Food Cans
+apis: []
+common:
+  - type: Website
+    url: https://www.crowncork.com/
+  - type: About
+    url: https://www.crowncork.com/about-crown
+  - type: Sustainability
+    url: https://www.crowncork.com/sustainability
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com
+    email: info@apievangelist.com
