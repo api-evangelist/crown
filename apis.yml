@@ -10,11 +10,11 @@ created: '2025-03-01'
 modified: '2025-03-01'
 specificationVersion: '0.18'
 tags:
-  - Packaging
-  - Manufacturing
-  - Metal Packaging
   - Beverage Cans
   - Food Cans
+  - Manufacturing
+  - Metal Packaging
+  - Packaging
 apis: []
 common:
   - type: Website
