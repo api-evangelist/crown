@@ -34,6 +34,8 @@ access: Private
 position: Consuming
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/crown-holdings-inc-
   - type: Website
     url: https://www.crowncork.com/
   - type: About
