@@ -56,6 +56,8 @@ common:
     url: https://www.crowncork.com/privacy-policy
   - type: TermsOfUse
     url: https://www.crowncork.com/terms-of-use
+  - type: LLMsTxt
+    url: https://crowncork.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
