@@ -55,9 +55,9 @@ common:
     url: https://www.crowncork.com/careers
   - type: PrivacyPolicy
     url: https://www.crowncork.com/privacy-policy
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.crowncork.com/terms-of-use
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://crowncork.com/llms.txt
 maintainers:
   - FN: Kin Lane
