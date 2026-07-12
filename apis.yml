@@ -35,6 +35,8 @@ access: Private
 position: Consuming
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/crown-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/crown-holdings-inc-
   - type: Website
