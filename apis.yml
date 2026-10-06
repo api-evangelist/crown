@@ -50,13 +50,15 @@ tags:
   - Transit Packaging
   - Fortune 500
 created: '2025-03-01'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 type: Index
 access: Private
 position: Consuming
 apis: []
 common:
+  - url: https://www.crowncork.com/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/crown-domain-security.yml
   - type: LinkedIn
